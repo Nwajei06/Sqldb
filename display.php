@@ -42,6 +42,8 @@
         echo "<div class='alert alert-danger'>Error: No polling unit was selected.</div>";
     }
     ?>
+      <a href="pollingunit.php"><button type="submit" class="btn btn-dark">Add Polling unit</button></a> 
+
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
